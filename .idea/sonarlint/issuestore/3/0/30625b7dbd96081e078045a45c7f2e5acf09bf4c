@@ -1,0 +1,10 @@
+
+‰"squid:ClassVariableVisibilityCheck"TMake username a static final constant or non-public and provide accessors if needed.(Ü±›Ô8ÛõÄ³ˆ-
+ˆ"squid:ClassVariableVisibilityCheck"NMake ip a static final constant or non-public and provide accessors if needed.(øˆ¦âşÿÿÿÿ8ÛõÄ³ˆ-
+~squid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(÷ñ›µüÿÿÿÿ8á–Ü³ˆ-
+dsquid:S1126)"AReplace this if-then-else statement by a single return statement.(ƒÒáûÿÿÿÿ8¢è£´ˆ-
+Ksquid:S1444"(Make this "public static ip" field final(øˆ¦âşÿÿÿÿ8ÙÃÊ³ˆ-
+<squid:S2178)"Correct this "&" to "&&".(ƒÒáûÿÿÿÿ8ªï¢´ˆ-
+…"squid:ClassVariableVisibilityCheck"PMake type a static final constant or non-public and provide accessors if needed.(©™Ù8´ıÆ³ˆ-
+Xsquid:S2209%"5Change this instance-reference to a static reference.(äğ¦İøÿÿÿÿ8ÔãÓ³ˆ-
+"squid:ClassVariableVisibilityCheck"TMake password a static final constant or non-public and provide accessors if needed.(¼şòüÿÿÿÿ8ÛõÄ³ˆ-
