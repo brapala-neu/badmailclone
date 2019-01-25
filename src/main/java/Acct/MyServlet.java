@@ -14,10 +14,6 @@ public class MyServlet extends HttpServer {
 
     }
 
-    public void start() {
-        
-    }
-
     public void setExecutor(Executor executor) {
 
     }

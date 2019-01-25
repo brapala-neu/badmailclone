@@ -1,12 +1,10 @@
 
-¥%squid:RedundantThrowsDeclarationCheck*"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ùç­€8¡Óø´ˆ-
-‚squid:S1488"_Immediately return this expression instead of assigning it to the temporary variable "referer".(Åöøÿÿÿÿ8Ê¬‘µˆ-
-°%squid:RedundantThrowsDeclarationCheck"sRemove the declaration of thrown exception 'java.rmi.ServerException' which is a subclass of 'java.io.IOException'.(‰­½Çüÿÿÿÿ8ò¦µˆ-
 rsquid:S00120"ZRename this package name to match the regular expression '^[a-z_]+(\.[a-z_][a-z0-9_]*)*$'.(Ò›ÑÒ
-¤squid:S1186."€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ç’ øşÿÿÿÿ8°İ†µˆ-
-Msquid:S1172"/Remove this unused method parameter "response".(ı˜³÷8Ö¡µˆ-
+_squid:UselessImportCheck	"5Remove this unused import 'java.rmi.ServerException'.(Ñ¿ÔA8ÀØ«µˆ-
 Ssquid:S1191"5Use classes from the Java API instead of Sun classes.(å¯åã8¡Óø´ˆ-
-¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ª»£øÿÿÿÿ8•Äû´ˆ-
-Ÿsquid:S1186*"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ùç­€8¡Óø´ˆ-
-Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³ÏÄÃ8¡Óø´ˆ-
-Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™Ô­Ô8¡Óø´ˆ-
+¤squid:S1186)"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ç’ øşÿÿÿÿ8°İ†µˆ-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(³ÏÄÃ8¡Óø´ˆ-
+Ÿsquid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(™Ô­Ô8¡Óø´ˆ-
+¥%squid:RedundantThrowsDeclarationCheck%"mRemove the declaration of thrown exception 'java.lang.IllegalArgumentException' which is a runtime exception.(ùç­€8¡Óø´ˆ-
+¤squid:S1186"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ª»£øÿÿÿÿ8•Äû´ˆ-
+Ÿsquid:S1186%"€Add a nested comment explaining why this method is empty, throw an UnsupportedOperationException or complete the implementation.(ùç­€8¡Óø´ˆ-
